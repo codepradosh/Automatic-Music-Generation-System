@@ -79,8 +79,18 @@ As one can see, this text data is useful to train an RNN to generate a similarly
 A few of the references that helped me. More useful for future work.
 
 1.Andrej Karpathy - Unreasonable Effectiveness of RNN https://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+
 2.Music Generation using RNN — with char-rnn https://maraoz.com/2016/02/02/abc-rnn/
+
+
 3.Analyzing Deep Learning Tools for Music Generation — Asimov Institute http://www.asimovinstitute.org/analyzing-deep-learning-tools-music/
+
+
 4.Hexahedria - Daniel Johnson — Composing Music with RNN http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/
+
+
 5.Kyle McDonald — Creative AI - Return to ML - https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb#.66hboziec
+
+
 6.Folk Music Generation — Bob Sturm https://highnoongmt.wordpress.com/2015/05/22/lisls-stis-recurrent-neural-networks-for-folk-music-generation/ WaveNet — DeepMind — Keras Implementation - https://github.com/basveeling/wavenet/
